@@ -1,0 +1,30 @@
+C:\Users\maous\Desktop\Tugas Daspro\bin\Debug\net6.0\Tugas Daspro.exe
+C:\Users\maous\Desktop\Tugas Daspro\bin\Debug\net6.0\Tugas Daspro.deps.json
+C:\Users\maous\Desktop\Tugas Daspro\bin\Debug\net6.0\Tugas Daspro.runtimeconfig.json
+C:\Users\maous\Desktop\Tugas Daspro\bin\Debug\net6.0\Tugas Daspro.dll
+C:\Users\maous\Desktop\Tugas Daspro\bin\Debug\net6.0\Tugas Daspro.pdb
+C:\Users\maous\Desktop\Tugas Daspro\obj\Debug\net6.0\Tugas Daspro.csproj.AssemblyReference.cache
+C:\Users\maous\Desktop\Tugas Daspro\obj\Debug\net6.0\Tugas Daspro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maous\Desktop\Tugas Daspro\obj\Debug\net6.0\Tugas Daspro.AssemblyInfoInputs.cache
+C:\Users\maous\Desktop\Tugas Daspro\obj\Debug\net6.0\Tugas Daspro.AssemblyInfo.cs
+C:\Users\maous\Desktop\Tugas Daspro\obj\Debug\net6.0\Tugas Daspro.csproj.CoreCompileInputs.cache
+C:\Users\maous\Desktop\Tugas Daspro\obj\Debug\net6.0\Tugas Daspro.dll
+C:\Users\maous\Desktop\Tugas Daspro\obj\Debug\net6.0\refint\Tugas Daspro.dll
+C:\Users\maous\Desktop\Tugas Daspro\obj\Debug\net6.0\Tugas Daspro.pdb
+C:\Users\maous\Desktop\Tugas Daspro\obj\Debug\net6.0\Tugas Daspro.genruntimeconfig.cache
+C:\Users\maous\Desktop\Tugas Daspro\obj\Debug\net6.0\ref\Tugas Daspro.dll
+C:\Users\maous\Desktop\Tugas Daspro Dadu\bin\Debug\net6.0\Tugas Daspro.exe
+C:\Users\maous\Desktop\Tugas Daspro Dadu\bin\Debug\net6.0\Tugas Daspro.deps.json
+C:\Users\maous\Desktop\Tugas Daspro Dadu\bin\Debug\net6.0\Tugas Daspro.runtimeconfig.json
+C:\Users\maous\Desktop\Tugas Daspro Dadu\bin\Debug\net6.0\Tugas Daspro.dll
+C:\Users\maous\Desktop\Tugas Daspro Dadu\bin\Debug\net6.0\Tugas Daspro.pdb
+C:\Users\maous\Desktop\Tugas Daspro Dadu\obj\Debug\net6.0\Tugas Daspro.csproj.AssemblyReference.cache
+C:\Users\maous\Desktop\Tugas Daspro Dadu\obj\Debug\net6.0\Tugas Daspro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maous\Desktop\Tugas Daspro Dadu\obj\Debug\net6.0\Tugas Daspro.AssemblyInfoInputs.cache
+C:\Users\maous\Desktop\Tugas Daspro Dadu\obj\Debug\net6.0\Tugas Daspro.AssemblyInfo.cs
+C:\Users\maous\Desktop\Tugas Daspro Dadu\obj\Debug\net6.0\Tugas Daspro.csproj.CoreCompileInputs.cache
+C:\Users\maous\Desktop\Tugas Daspro Dadu\obj\Debug\net6.0\Tugas Daspro.dll
+C:\Users\maous\Desktop\Tugas Daspro Dadu\obj\Debug\net6.0\refint\Tugas Daspro.dll
+C:\Users\maous\Desktop\Tugas Daspro Dadu\obj\Debug\net6.0\Tugas Daspro.pdb
+C:\Users\maous\Desktop\Tugas Daspro Dadu\obj\Debug\net6.0\Tugas Daspro.genruntimeconfig.cache
+C:\Users\maous\Desktop\Tugas Daspro Dadu\obj\Debug\net6.0\ref\Tugas Daspro.dll

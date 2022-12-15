@@ -1,0 +1,15 @@
+C:\Users\maous\Desktop\Game Adventure\bin\Debug\net6.0\Game Adventure.exe
+C:\Users\maous\Desktop\Game Adventure\bin\Debug\net6.0\Game Adventure.deps.json
+C:\Users\maous\Desktop\Game Adventure\bin\Debug\net6.0\Game Adventure.runtimeconfig.json
+C:\Users\maous\Desktop\Game Adventure\bin\Debug\net6.0\Game Adventure.dll
+C:\Users\maous\Desktop\Game Adventure\bin\Debug\net6.0\Game Adventure.pdb
+C:\Users\maous\Desktop\Game Adventure\obj\Debug\net6.0\Game Adventure.csproj.AssemblyReference.cache
+C:\Users\maous\Desktop\Game Adventure\obj\Debug\net6.0\Game Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maous\Desktop\Game Adventure\obj\Debug\net6.0\Game Adventure.AssemblyInfoInputs.cache
+C:\Users\maous\Desktop\Game Adventure\obj\Debug\net6.0\Game Adventure.AssemblyInfo.cs
+C:\Users\maous\Desktop\Game Adventure\obj\Debug\net6.0\Game Adventure.csproj.CoreCompileInputs.cache
+C:\Users\maous\Desktop\Game Adventure\obj\Debug\net6.0\Game Adventure.dll
+C:\Users\maous\Desktop\Game Adventure\obj\Debug\net6.0\refint\Game Adventure.dll
+C:\Users\maous\Desktop\Game Adventure\obj\Debug\net6.0\Game Adventure.pdb
+C:\Users\maous\Desktop\Game Adventure\obj\Debug\net6.0\Game Adventure.genruntimeconfig.cache
+C:\Users\maous\Desktop\Game Adventure\obj\Debug\net6.0\ref\Game Adventure.dll

@@ -1,0 +1,15 @@
+C:\Users\maous\Desktop\Battle Tank\bin\Debug\net6.0\Battle Tank.exe
+C:\Users\maous\Desktop\Battle Tank\bin\Debug\net6.0\Battle Tank.deps.json
+C:\Users\maous\Desktop\Battle Tank\bin\Debug\net6.0\Battle Tank.runtimeconfig.json
+C:\Users\maous\Desktop\Battle Tank\bin\Debug\net6.0\Battle Tank.dll
+C:\Users\maous\Desktop\Battle Tank\bin\Debug\net6.0\Battle Tank.pdb
+C:\Users\maous\Desktop\Battle Tank\obj\Debug\net6.0\Battle Tank.csproj.AssemblyReference.cache
+C:\Users\maous\Desktop\Battle Tank\obj\Debug\net6.0\Battle Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maous\Desktop\Battle Tank\obj\Debug\net6.0\Battle Tank.AssemblyInfoInputs.cache
+C:\Users\maous\Desktop\Battle Tank\obj\Debug\net6.0\Battle Tank.AssemblyInfo.cs
+C:\Users\maous\Desktop\Battle Tank\obj\Debug\net6.0\Battle Tank.csproj.CoreCompileInputs.cache
+C:\Users\maous\Desktop\Battle Tank\obj\Debug\net6.0\Battle Tank.dll
+C:\Users\maous\Desktop\Battle Tank\obj\Debug\net6.0\refint\Battle Tank.dll
+C:\Users\maous\Desktop\Battle Tank\obj\Debug\net6.0\Battle Tank.pdb
+C:\Users\maous\Desktop\Battle Tank\obj\Debug\net6.0\Battle Tank.genruntimeconfig.cache
+C:\Users\maous\Desktop\Battle Tank\obj\Debug\net6.0\ref\Battle Tank.dll
